@@ -18,8 +18,7 @@ function App() {
                     </div>
                 </div>
             </div>
-            <div classNameName="header-banner"></div>
-
+            <div class="header-banner"></div>
             <div className="navbar-contact">
                 <div className="container">
                     <div className="row">
