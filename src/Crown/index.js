@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App_69 from './App_69';
 import reportWebVitals from './reportWebVitals';
-
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* eslint-disable-next-line*/}
+    <App_69 />
   </React.StrictMode>,
   document.getElementById('root')
 );
